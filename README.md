@@ -5,3 +5,8 @@ This is a re-write of the code to power a converted chest freezer. Currently the
 Using platform.io we are able to have libraries and stuff like that 
 
 #### Libraries Used
+* adafruit/Adafruit BusIO
+* adafruit/Adafruit GFX Library
+* adafruit/Adafruit SSD1306
+* robtillaart/DS18B20
+* paulstoffregen/OneWire
